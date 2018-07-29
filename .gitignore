@@ -3,3 +3,10 @@
 ################################################################################
 
 /project/Debug
+/project/.vs/project/v15
+/project/project/Debug/project.tlog
+/project/project/Debug
+/project/project/project.vcxproj
+/project/project/project.vcxproj.filters
+/project/project/project.vcxproj.user
+/project/project.sln
